@@ -1,0 +1,1 @@
+# void-f1-and-f2.c
